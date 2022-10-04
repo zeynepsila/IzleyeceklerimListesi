@@ -1,2 +1,2 @@
 # izleyeceklerim-listesi
-veri yapilari dersi donem sonu projesi
+Veri yapilari dersi donem sonu projesi icin ağac veri yapisini kullanarak olusturdugumuz izleme listesi.
